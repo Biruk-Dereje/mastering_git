@@ -1,0 +1,35 @@
+[33mcommit 4d0656db678665b4061cac803b9707af92083740[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigim/main[m[33m, [m[1;31morigim/HEAD[m[33m)[m
+Merge: 1afb15b 3eb3ef7
+Author: Biruk-Dereje <119703343+Biruk-Dereje@users.noreply.github.com>
+Date:   Fri Oct 30 16:04:16 2026 +0300
+
+    Merge pull request #2 from Biruk-Dereje/new2_branch
+    
+    hello.go feature added
+
+[33mcommit 3eb3ef71ad46d7687c2646004304fec67a673502[m[33m ([m[1;31morigim/new2_branch[m[33m, [m[1;32mnew2_branch[m[33m)[m
+Author: Biruk-Dereje <derejebiruk1@gmail.com>
+Date:   Fri Oct 30 15:59:26 2026 +0300
+
+    hello.go feature added
+
+[33mcommit 1afb15b52fd1e6d07915549996fb33f24301696c[m
+Merge: 6f56d94 e47c127
+Author: Biruk-Dereje <119703343+Biruk-Dereje@users.noreply.github.com>
+Date:   Fri Oct 30 15:53:07 2026 +0300
+
+    Merge pull request #1 from Biruk-Dereje/new2_branch
+    
+    feature added under new2_branch
+
+[33mcommit e47c1276f9811cb6128fd1103818be9065f9405d[m
+Author: Biruk-Dereje <derejebiruk1@gmail.com>
+Date:   Fri Oct 30 15:43:58 2026 +0300
+
+    feature added under new2_branch
+
+[33mcommit 6f56d948ee035664a7575082e83c381c7068e81f[m
+Author: Biruk-Dereje <derejebiruk1@gmail.com>
+Date:   Fri Oct 30 01:55:14 2026 +0300
+
+    added readme and hello
